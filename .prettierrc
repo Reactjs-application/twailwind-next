@@ -2,7 +2,9 @@
     "printWidth": 100,
     "singleQuote": true,
     "tabWidth": 4,
+    "parser": "flow",
     "trailingComma": "all",
     "endOfLine": "auto",
-    "arrowParens": "avoid"
+    "arrowParens": "avoid",
+    "ignoreComments": true
 }
